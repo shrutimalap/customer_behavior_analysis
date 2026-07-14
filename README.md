@@ -1,7 +1,5 @@
-# customer_behavior_analysis
-Data Analysis project using SQL, Python, and Power BI to analyze customer behavior, uncover purchasing trends, perform data cleaning, and build interactive dashboards for business insights.
-
 # Customer Behavior Analysis
+Data Analysis project using SQL, Python, and Power BI to analyze customer behavior, uncover purchasing trends, perform data cleaning, and build interactive dashboards for business insights.
 
 ## Overview
 This is an end-to-end **Data Analytics** project that analyzes customer behavior using **Python, SQL, and Power BI**. The project follows a complete analytics workflow, including data loading, cleaning, exploratory data analysis (EDA), SQL-based business analysis, dashboard creation, and reporting to generate actionable business insights.
