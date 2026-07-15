@@ -68,7 +68,13 @@ The dataset contains customer-related information such as purchasing behavior, d
 
 ## Dashboard
 
-The Power BI dashboard includes:
+The interactive Power BI dashboard provides insights into customer behavior, purchasing trends, sales performance, and key business metrics.
+
+### Dashboard Preview
+
+![Sales Dashboard](sales_dashboard.png)
+
+### Dashboard Features
 
 - Customer Overview
 - Sales Performance
@@ -76,8 +82,6 @@ The Power BI dashboard includes:
 - Purchasing Trends
 - Key Performance Indicators (KPIs)
 - Interactive Filters and Slicers
-
-> **Note:** Dashboard screenshots can be found in the `images/` folder.
 
 ---
 
