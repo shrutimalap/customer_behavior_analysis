@@ -22,7 +22,6 @@ The dataset contains customer-related information such as purchasing behavior, d
   - PostgreSQL / MySQL / SQL Server
 - **Power BI**
 - **Jupyter Notebook**
-- **Gamma** (Presentation)
 - **Microsoft Excel**
 
 ---
@@ -60,9 +59,6 @@ The dataset contains customer-related information such as purchasing behavior, d
 ### 6. Reporting
 - Documented key findings and business recommendations.
 - Summarized insights in a professional report.
-
-### 7. Presentation
-- Created a presentation using **Gamma** to communicate project objectives, analysis, and key business insights.
 
 ---
 
