@@ -99,18 +99,12 @@ The interactive Power BI dashboard provides insights into customer behavior, pur
 
 ```
 Customer-Behavior-Analysis/
-│
-├── data/
-├── notebooks/
-│   └── Customer_Behavior_Analysis.ipynb
-├── sql/
-│   └── Customer_Behavior_Analysis.sql
-├── dashboard/
-│   └── Customer Behavior Analysis.pbix
-├── reports/
-├── presentation/
-├── images/
-├── README.md
+│── Customer_Behavior_Analysis.ipynb
+│── Customer_Behavior_Analysis.sql
+│── Customer Behavior Analysis.pbix
+│── customer_shopping_behavior.csv
+│── sales_dashboard.png
+│── README.md
 └── LICENSE
 ```
 
@@ -121,7 +115,7 @@ Customer-Behavior-Analysis/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/Customer-Behavior-Analysis.git
+git clone https://github.com/shrutimalap/Customer-Behavior-Analysis.git
 ```
 
 2. Install the required Python libraries.
